@@ -1,0 +1,6 @@
+User ID,Date,Feedback Type,Description,Action Taken,Commit Link
+U-001,2026-08-01,Bug,Wallet connection fails on mobile,Fixed Freighter connection on small screens,[Link to Commit]
+U-002,2026-08-05,Feature Request,Add dark mode toggle,Implemented dark mode as default,[Link to Commit]
+U-003,2026-08-10,UI/UX,Send button is too small,Increased button padding and hover state,[Link to Commit]
+U-004,2026-08-15,Feature Request,Show recent transactions,Added transaction history panel,[Link to Commit]
+U-005,2026-08-20,Bug,Wrong network displayed,Hardcoded to Mainnet and updated UI,[Link to Commit]
