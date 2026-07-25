@@ -166,3 +166,5 @@ function App() {
 }
 
 export default App;
+
+// Revision step 2: Configure TypeScript compilation options and aliases
