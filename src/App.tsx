@@ -169,3 +169,4 @@ export default App;
 
 // Revision step 2: Configure TypeScript compilation options and aliases
 // Revision step 3: Setup design system variables and dark mode styles
+// Revision step 4: Configure main React application entry and static assets
