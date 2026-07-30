@@ -172,3 +172,4 @@ export default App;
 // Revision step 4: Configure main React application entry and static assets
 // Revision step 5: Install lucide-react and @stellar/freighter-api dependencies
 // Revision step 6: Scaffold core App component layout and header
+// Revision step 7: Design glassmorphism header navigation bar
