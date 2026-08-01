@@ -174,3 +174,4 @@ export default App;
 // Revision step 6: Scaffold core App component layout and header
 // Revision step 7: Design glassmorphism header navigation bar
 // Revision step 8: Add responsive navigation component with logo
+// Revision step 9: Add Freighter wallet detection utilities
