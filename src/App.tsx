@@ -175,3 +175,4 @@ export default App;
 // Revision step 7: Design glassmorphism header navigation bar
 // Revision step 8: Add responsive navigation component with logo
 // Revision step 9: Add Freighter wallet detection utilities
+// Revision step 10: Implement Freighter API wallet connection handler
