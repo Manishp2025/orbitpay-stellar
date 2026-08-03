@@ -176,3 +176,4 @@ export default App;
 // Revision step 8: Add responsive navigation component with logo
 // Revision step 9: Add Freighter wallet detection utilities
 // Revision step 10: Implement Freighter API wallet connection handler
+// Revision step 11: Add visual badge for connected mainnet wallet address
