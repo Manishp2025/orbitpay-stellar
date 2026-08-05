@@ -178,3 +178,4 @@ export default App;
 // Revision step 10: Implement Freighter API wallet connection handler
 // Revision step 11: Add visual badge for connected mainnet wallet address
 // Revision step 12: Design Hero section typography and layout
+// Revision step 13: Build Hero section with call-to-action buttons
