@@ -179,3 +179,4 @@ export default App;
 // Revision step 11: Add visual badge for connected mainnet wallet address
 // Revision step 12: Design Hero section typography and layout
 // Revision step 13: Build Hero section with call-to-action buttons
+// Revision step 14: Create multi-card grid for dashboard features
