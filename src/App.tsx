@@ -181,3 +181,4 @@ export default App;
 // Revision step 13: Build Hero section with call-to-action buttons
 // Revision step 14: Create multi-card grid for dashboard features
 // Revision step 15: Implement XLM payment and donation form
+// Revision step 16: Add transaction amount validation and feedback
