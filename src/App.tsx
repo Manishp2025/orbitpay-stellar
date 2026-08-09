@@ -182,3 +182,4 @@ export default App;
 // Revision step 14: Create multi-card grid for dashboard features
 // Revision step 15: Implement XLM payment and donation form
 // Revision step 16: Add transaction amount validation and feedback
+// Revision step 17: Integrate transaction simulation for mainnet testing
