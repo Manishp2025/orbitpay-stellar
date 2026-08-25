@@ -198,3 +198,4 @@ export default App;
 // Revision step 30: Refine documentation links and local build instructions
 // Revision step 31: Enhance wallet address parsing compatibility for Freighter extension
 // Revision step 32: Add accessibility labels and keyboard navigation
+// Revision step 33: Optimize bundle chunk sizes and production build settings
