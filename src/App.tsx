@@ -166,38 +166,3 @@ function App() {
 }
 
 export default App;
-
-// Revision step 2: Configure TypeScript compilation options and aliases
-// Revision step 3: Setup design system variables and dark mode styles
-// Revision step 4: Configure main React application entry and static assets
-// Revision step 5: Install lucide-react and @stellar/freighter-api dependencies
-// Revision step 6: Scaffold core App component layout and header
-// Revision step 7: Design glassmorphism header navigation bar
-// Revision step 8: Add responsive navigation component with logo
-// Revision step 9: Add Freighter wallet detection utilities
-// Revision step 10: Implement Freighter API wallet connection handler
-// Revision step 11: Add visual badge for connected mainnet wallet address
-// Revision step 12: Design Hero section typography and layout
-// Revision step 13: Build Hero section with call-to-action buttons
-// Revision step 14: Create multi-card grid for dashboard features
-// Revision step 15: Implement XLM payment and donation form
-// Revision step 16: Add transaction amount validation and feedback
-// Revision step 17: Integrate transaction simulation for mainnet testing
-// Revision step 18: Add loading indicator and disabled states during payment processing
-// Revision step 19: Build Growth Metrics display card with active user counts
-// Revision step 20: Add interactive community engagement module and feedback button
-// Revision step 21: Optimize CSS animations and glassmorphism hover transitions
-// Revision step 22: Create documentation directory structure
-// Revision step 23: Draft initial Monthly Growth Report
-// Revision step 24: Document 50+ mainnet user acquisition milestones
-// Revision step 25: Create User Feedback tracking spreadsheet (USER_FEEDBACK.csv)
-// Revision step 26: Log early adopter feedback and iteration plan
-// Revision step 27: Document community contributions and AMAs in docs
-// Revision step 28: Add social media follower growth statistics
-// Revision step 29: Add comprehensive README with Level 7 checklist
-// Revision step 30: Refine documentation links and local build instructions
-// Revision step 31: Enhance wallet address parsing compatibility for Freighter extension
-// Revision step 32: Add accessibility labels and keyboard navigation
-// Revision step 33: Optimize bundle chunk sizes and production build settings
-// Revision step 34: Update project metadata and licensing
-// Revision step 35: Final review, UI polish and Level 7 Founder Belt submission ready
